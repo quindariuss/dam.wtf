@@ -1,0 +1,14 @@
+body
+{
+	padding: 30%;
+	background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
+}
+a
+{
+	color: white
+}
+
+*
+{
+	cursor: url('beaver.png'),auto;
+}
